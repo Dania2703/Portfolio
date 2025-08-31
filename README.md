@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Dania Dabbah  
 **Software & Information Systems Engineering Student @ Ben Gurion University**  
 
-💻 Passionate about **Software Engineering, AI, Full-Stack Development, and Algorithms**  
+💻 Passionate about **Software Engineering, AI, Full-Stack Development, QA, and Algorithms**  
 🎯 Seeking **student developer opportunities** to apply my skills and grow within innovative projects  
-📍 Based in Israel | 🌍 Open to global opportunities  
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dania-dabbah)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Dania2703)  
