@@ -12,7 +12,7 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 **🎓 B.SC in Software and Information Systems Engineering**
 
-📍 **Ben Gurion University of the Negev **📅 **October 2022 – Present**
+📍 **Ben Gurion University of the Negev** 📅 **October 2022 – Present**
 
 
 
