@@ -2,11 +2,11 @@
 
 ## 🎓 About Me
 
-Third-year **Software and Information Systems Engineering** student at **Ben Gurion University of the Negev**, actively seeking a **Student Development position**. I am an ambitious and highly motivated individual with a strong interest in software engineering and programming. I am adept at collaborating with cross-functional teams and am eager to leverage my technical expertise and contribute to innovative projects in the field.
+Third-year **Software and Information Systems Engineering** student at **Ben Gurion University of the Negev**, actively seeking a **Student Development position**. I am an ambitious and highly motivated individual with a strong interest in software engineering and programming and programming, FullStack, Security, ML and AI. I am adept at collaborating with cross-functional teams and am eager to leverage my technical expertise and contribute to innovative projects in the field.
 
 ## 🚀 Professional Summary
 
-**Software and Information System Engineering Student** | Skilled in **Java, Python, C++, C#, SQL, and Bash** | Proficient in **Object-Oriented Programming (OOP), Data Structures & Algorithms** | QA | FullStack and Security, Passionate About **Software Design & Development**
+**Software and Information System Engineering Student** | Skilled in **Java,Javascript, Python, C, C++, C#, SQL,Assembley and Bash** | Proficient in **Object-Oriented Programming (OOP), Data Structures & Algorithms** | **QA** | **FullStack** and **Security**, Passionate About **Software Design & Development**
 
 ## 📚 Education
 
@@ -81,7 +81,7 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabbahdania25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dania-dabbah)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0509277222)
+
 
 
 
