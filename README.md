@@ -14,7 +14,8 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 📍 **Ben Gurion University of the Negev** 📅 **October 2022 – Present**
 
-
+-
+-
 
 ## 💻 Technical Skills
 
