@@ -67,6 +67,8 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 - 🎯 Focus: Fairness & Accuracy in Candidate Screening, Automated Classification, Recruitment Efficiency
 
+  
+
 ## 🏆 Achievements & Experience
 
 - 💼 **Technical Support Expert** at **Cellcom Company**
