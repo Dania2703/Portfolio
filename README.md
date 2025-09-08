@@ -59,6 +59,14 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 - 🎯 **Focus:** Problem Solving Algorithms, User Interaction
 
+### 📄 ResumeMatch (2025)
+
+**AI-powered automation of resume classification and candidate–job category matching.**
+
+- 🔧 Technologies: Natural Language Processing (NLP), Machine Learning, Job Data Integration
+
+- 🎯 Focus: Fairness & Accuracy in Candidate Screening, Automated Classification, Recruitment Efficiency
+
 ## 🏆 Achievements & Experience
 
 - 💼 **Technical Support Expert** at **Cellcom Company**
