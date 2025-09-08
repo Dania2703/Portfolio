@@ -14,8 +14,7 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 
 📍 **Ben Gurion University of the Negev** 📅 **October 2022 – Present**
 
--
--
+
 
 ## 💻 Technical Skills
 
@@ -69,7 +68,7 @@ Third-year **Software and Information Systems Engineering** student at **Ben Gur
 - 🎯 Focus: Fairness & Accuracy in Candidate Screening, Automated Classification, Recruitment Efficiency
 
   
-
+###
 ## 🏆 Achievements & Experience
 
 - 💼 **Technical Support Expert** at **Cellcom Company**
